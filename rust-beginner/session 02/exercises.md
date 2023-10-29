@@ -3,7 +3,7 @@
 To get started, you'll need a working Rust environment. Open up your go-to editor and follow the instructions in each exercise. The difficulty ratings are there to give you an idea of what to expect, based on what you've learned.
 
 ## Goal
-The aim of these exercises is to get you comfortable with Rust's basic types and variables. You'll be working hands-on with integers, exploring mutability, and getting a feel for Rust's type system. It's foundational stuff that you'll build on as you dive deeper into the language.
+The aim of these exercises is to get you comfortable with Rust's basic types and variables. You'll be working with integers, write your first programs, and get a feel for Rust's type system.
 
 ## Exercise 1: Initialize and print an Integer Variable
 ```
