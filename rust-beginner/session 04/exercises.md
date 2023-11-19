@@ -3,10 +3,7 @@
 To get started, you'll need a working Rust environment. Open up your go-to editor and follow the instructions in each exercise. The difficulty ratings are there to give you an idea of what to expect, based on what you've learned.
 
 ## Goal
-The goal of these exercises is to familiarize you with Rust's arrays and vectors. You'll learn to work with indices, manipulate your first data structures, and gain a basic understanding of how arrays and vectors are used in Rust.
-
 The goal of these exercises is to familiarize you with Rust's ways of looping. You'll learn to work with loops, iterate over your first data structures, and gain a basic understanding of how loops are used in Rust.
-
 
 ## Exercise 1: Basic Loop
 ```
