@@ -1,4 +1,4 @@
-# Solutions for Arrazs and Vectors
+# Solutions for Arrays and Vectors
 
 ## Solution for Exercise 1: Reverse Order Array
 ```rust
