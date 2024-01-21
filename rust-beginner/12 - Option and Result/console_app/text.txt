@@ -1,0 +1,3 @@
+Lorem ipsum und so weiter,
+dies ist eine Testdatei um das Ergebnis von `read` zu zeigen.
+Achso, natürlich mit UTF-8: 😮
