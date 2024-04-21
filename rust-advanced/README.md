@@ -10,4 +10,5 @@ Each session is made out of those parts:
 `git clone` to get a local copy of this repository. Then regularly `git pull` to get the updated slides.  
 Alternatively, you can browse it on Github, which also supports PDF and Markdown rendering.  
 ## Content
-**TBD**
+- [01. Introduction](./01%20-%20Introduction/)
+  - Roadmap and Recap of Rust Basics
