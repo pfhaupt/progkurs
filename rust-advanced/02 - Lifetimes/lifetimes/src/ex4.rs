@@ -1,5 +1,3 @@
-
-
 pub fn main() {
     #[cfg(not(feature="spam"))]
     normal::main();
@@ -14,6 +12,8 @@ mod normal {
 
     impl Flags {
         fn parse_arg(args: std::env::Args) -> Self {
+            // Usage: cargo run -- [args]
+            // Example: cargo run -- --do_stuff
             let arg_vec: Vec<_> = args.collect();
             let do_stuff = arg_vec.iter().any(|e|e == "--do_stuff");
             let something = arg_vec.iter().any(|e|e == "--something");
