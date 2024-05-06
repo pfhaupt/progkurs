@@ -16,6 +16,10 @@ Exercises are meant to be self-checks, possible solutions are given in the corre
 - [01. Installation](./01%20-%20Installation/)
   - Setup of the Rust compiler, the Rust toolchain, and an IDE
 - [02. Variables](./02%20-%20Variables/)
+  - Basic Types
+    - Integers
+  - Variable Declaration
+    - `let` vs `let mut`
 - [03. Arrays and Vectors](./03%20-%20Arrays%20and%20Vectors/)
 - [04. Loops](./04%20-%20loop,%20while,%20for/)
 - [05. Ownership and Borrow Checker](./05%20-%20Ownership%20and%20Borrow%20Checker/)
