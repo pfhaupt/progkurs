@@ -12,3 +12,6 @@ Alternatively, you can browse it on Github, which also supports PDF and Markdown
 ## Content
 - [01. Introduction](./01%20-%20Introduction/)
   - Roadmap and Recap of Rust Basics
+- [02. Lifetimes](./02%20-%20Lifetimes/)
+  - What are Lifetimes?
+  - Lifetime Elision
