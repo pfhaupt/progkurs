@@ -15,3 +15,6 @@ Alternatively, you can browse it on Github, which also supports PDF and Markdown
 - [02. Lifetimes](./02%20-%20Lifetimes/)
   - What are Lifetimes?
   - Lifetime Elision
+- [03. Slices](./03%20-%20Slices/)
+  - What are Slices?
+  - Efficient tokenization of Strings
