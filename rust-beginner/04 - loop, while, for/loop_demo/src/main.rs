@@ -45,12 +45,15 @@ fn for_loop() {
     }
 
     let vector: Vec<i32> = vec![120, 768, 9021, -4012];
-    for element in vector { // Note: This moves the vector!
-        println!("Current: {}", element);
+    for blub in vector { // Note: This moves the vector!
+        println!("Current: {}", blub);
     }
     
     for n in 0..10 {
         println!("Number: {}", n);
+    }
+    for m in 0..=10 {
+        println!("Mumber: {}", m);
     }
 }
 

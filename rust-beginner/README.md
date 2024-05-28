@@ -25,6 +25,9 @@ Exercises are meant to be self-checks, possible solutions are given in the corre
   - Indexing, Getting and Setting elements
   - `vec![]` macro
 - [04. Loops](./04%20-%20loop,%20while,%20for/)
+  - Conditions
+  - `if`
+  - `loop`, `while`, `for`
 - [05. Ownership and Borrow Checker](./05%20-%20Ownership%20and%20Borrow%20Checker/)
 - [06. Function declaration](./06%20-%20Function%20declaration/)
 - [07. Function usage](./07%20-%20Function%20usage/)

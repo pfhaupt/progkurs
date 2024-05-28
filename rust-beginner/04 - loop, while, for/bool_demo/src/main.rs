@@ -8,4 +8,15 @@ fn main() {
     println!("a is greater than b: {}", a > b); 
     println!("a is greater than or equal b: {}", a >= b);
     println!("a is positive: {}", a.is_positive());
+
+    let c: i32 = 12;
+    let d: i32 = 20;
+    if c < d {
+        println!("c is smaller than d!");
+    } else {
+        println!("c is not smaller than d!");
+    }
+    if c == d {
+        println!("c is equal to d!");
+    }
 }
