@@ -18,3 +18,6 @@ Alternatively, you can browse it on Github, which also supports PDF and Markdown
 - [03. Slices](./03%20-%20Slices/)
   - What are Slices?
   - Efficient tokenization of Strings
+- [04. Smart Pointers](./04%20-%20Smart%20Pointers/)
+  - What are Smart Pointers?
+  - `Box<T>`, `Rc<T>`, `RefCell<T>`
