@@ -21,3 +21,7 @@ Alternatively, you can browse it on Github, which also supports PDF and Markdown
 - [04. Smart Pointers](./04%20-%20Smart%20Pointers/)
   - What are Smart Pointers?
   - `Box<T>`, `Rc<T>`, `RefCell<T>`
+- [05. Declarative Macros](./05%20-%20Declarative%20Macros/)
+  - `Weak<T>`
+  - What are Macros?
+  - `macro_rules!`
