@@ -1,4 +1,4 @@
-fn main() {
+pub fn main() {
     let mut vector: Vec<i32> = vec![1, 2];
     for i in 3..=10 {
         vector.push(i);
