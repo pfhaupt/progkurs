@@ -33,6 +33,8 @@ Exercises are meant to be self-checks, possible solutions are given in the corre
   - References
   - Borrow Checker
 - [06. Function declaration](./06%20-%20Function%20declaration/)
+  - Small introduction to Lifetimes
+  - Function declarations
 - [07. Function usage](./07%20-%20Function%20usage/)
 - [08. Structs](./08%20-%20Structs/)
 - [09. Traits](./09%20-%20Traits/)
