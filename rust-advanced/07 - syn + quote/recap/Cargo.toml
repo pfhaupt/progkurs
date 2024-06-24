@@ -1,3 +1,4 @@
+workspace = { members = ["fn_like"] }
 [package]
 name = "recap"
 version = "0.1.0"
