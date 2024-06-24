@@ -28,3 +28,5 @@ Alternatively, you can browse it on Github, which also supports PDF and Markdown
 - [06. Procedural Macros](./06%20-%20Procedural%20Macros/)
   - tt-muncher
   - Introduction to `proc_macro`, `proc_macro_derive`, `proc_macro_attribute`
+- [07. syn + quote](./07%20-%20syn%20+%20quote/)
+  - Showcase of the Rust crates `syn` and `quote` for procedural macros
