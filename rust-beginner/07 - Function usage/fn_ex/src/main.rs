@@ -1,15 +1,5 @@
 #![allow(unused)]
 
-fn add(a: i32, b: i32) -> i32 {
-    return a + b;
-}
-
-fn no_ret(a: i32, b: i32) {
-    println!("a={}, b={}", a, b);
-}
-fn no_args() -> i32 {
-    return 1;
-}
 fn fib(n: u32) -> u32 {
     if n == 0 { return 0; }
     if n == 1 { return 1; }
