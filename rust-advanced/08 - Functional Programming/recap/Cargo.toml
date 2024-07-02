@@ -1,0 +1,8 @@
+workspace = { members = ["print"] }
+[package]
+name = "recap"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+print = { path="./print" }

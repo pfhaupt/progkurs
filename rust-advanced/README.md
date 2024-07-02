@@ -30,3 +30,6 @@ Alternatively, you can browse it on Github, which also supports PDF and Markdown
   - Introduction to `proc_macro`, `proc_macro_derive`, `proc_macro_attribute`
 - [07. syn + quote](./07%20-%20syn%20+%20quote/)
   - Showcase of the Rust crates `syn` and `quote` for procedural macros
+- [08. Functional Programming](./08%20-%20Functional%20Programming/)
+  - Closures
+  - Iterators
