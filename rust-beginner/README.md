@@ -40,6 +40,9 @@ Exercises are meant to be self-checks, possible solutions are given in the corre
   - Recursion
   - Ownership and Borrow Checker for arguments
 - [08. Structs](./08%20-%20Structs/)
+  - Structs
+  - Associated Functions
+  - Methods
 - [09. Traits](./09%20-%20Traits/)
 - [10. Enums](./10%20-%20Enums/)
 - [11. Generics](./11%20-%20Generics/)
