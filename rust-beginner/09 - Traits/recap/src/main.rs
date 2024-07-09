@@ -1,11 +1,11 @@
 #![allow(unused)]
-struct Point {
-    x: i32,
-    y: i32,
-}
 struct Line {
     start: Point,
     end: Point
+}
+struct Point {
+    x: i32,
+    y: i32,
 }
 
 impl Line {

@@ -44,6 +44,9 @@ Exercises are meant to be self-checks, possible solutions are given in the corre
   - Associated Functions
   - Methods
 - [09. Traits](./09%20-%20Traits/)
+  - Traits
+  - Strings
+  - `format!()`, `println!()`
 - [10. Enums](./10%20-%20Enums/)
 - [11. Generics](./11%20-%20Generics/)
 - [12. Option and Result](./12%20-%20Option%20and%20Result/)

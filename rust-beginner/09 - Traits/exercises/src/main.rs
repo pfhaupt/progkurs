@@ -9,8 +9,8 @@ mod exercise_4;
 use exercise_4::main as exercise_4_main;
 
 fn main() {
-    // exercise_1_main();
-    // exercise_2_main();
-    // exercise_3_main();
+    exercise_1_main();
+    exercise_2_main();
+    exercise_3_main();
     exercise_4_main();
 }

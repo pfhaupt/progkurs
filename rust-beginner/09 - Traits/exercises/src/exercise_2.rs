@@ -7,20 +7,15 @@ trait Printable: Debug + Display {
         println!("{:?}", self);
     }
 }
-impl Display for Point {
-    fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
-        write!(f, "({}, {})", self.x, self.y)
-    }
-}
-#[derive(Debug)]
 struct Point {
     x: i32,
     y: i32,
 }
-impl Printable for Point {}
+// Compiler error, Point does not implement Display and Debug
+// impl Printable for Point {}
 
 pub fn main() {
     let p = Point { x: 10, y: 20 };
-    p.print_normal();
-    p.print_debug();
+    // p.print_normal();
+    // p.print_debug();
 }
