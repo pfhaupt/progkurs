@@ -32,22 +32,20 @@ Exercises are meant to be self-checks, possible solutions are given in the corre
   - Ownership
   - References
   - Borrow Checker
-- [06. Function declaration](./06%20-%20Function%20declaration/)
-  - Small introduction to Lifetimes
-  - Function declarations
-- [07. Function usage](./07%20-%20Function%20usage/)
+  - Lifetimes
+- [06. Functions](./06%20-%20Functions/)
+  - Function
   - Calling functions
   - Recursion
-  - Ownership and Borrow Checker for arguments
-- [08. Structs](./08%20-%20Structs/)
+- [07. Structs](./07%20-%20Structs/)
   - Structs
   - Associated Functions
   - Methods
-- [09. Traits](./09%20-%20Traits/)
+- [08. Traits](./08%20-%20Traits/)
   - Traits
   - Strings
   - `format!()`, `println!()`
-- [10. Enums](./10%20-%20Enums/)
-- [11. Generics](./11%20-%20Generics/)
-- [12. Option and Result](./12%20-%20Option%20and%20Result/)
-- [13. Third-party libraries](./13%20-%20Third-party%20libraries/)
+- [09. Enums](./09%20-%20Enums/)
+- [10. Generics](./10%20-%20Generics/)
+- [11. Option and Result](./11%20-%20Option%20and%20Result/)
+- [12. Third-party libraries](./12%20-%20Third-party%20libraries/)
